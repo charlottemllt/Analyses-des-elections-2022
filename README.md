@@ -18,3 +18,6 @@ Ma démarche est la suivante :
 Les résultats sont synthétisés dans un article Médium.
 
 [![Medium Charlotte Millet](https://github-readme-medium.vercel.app/?username=charlottemillet04)](https://medium.com/@charlottemillet04/pouvons-nous-pr%C3%A9dire-le-r%C3%A9sultat-des-l%C3%A9gislatives-8d1fba61c175)
+
+## Lancement du code
+Lancez le fichier *Launcher.bat* (ou double-cliquez sur le fichier dans l'explorateur de fichier). L'environnement du projet est automatiquement créé et le notebook s'ouvre. Lancez l'ensemble des cellules en cliquant sur le symbole double flèche.
